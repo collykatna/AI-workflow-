@@ -1,2 +1,12 @@
-# AI-workflow-
-AI workflow - simplifying AI automation and workflow 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Workflow HQ</title>
+</head>
+<body>
+  <h1>Welcome to AI Workflow HQ 🚀</h1>
+  <p>Your site is live on Netlify!</p>
+</body>
+</html>
